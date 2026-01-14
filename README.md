@@ -93,4 +93,4 @@ My portfolio showcases:
 
 ---
 
-⭐ *Always learning. Always building.*
+*Always learning. Always building.*

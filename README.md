@@ -53,15 +53,64 @@ My portfolio showcases:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Showcase)
 
-- 🔐 **cryptFile** – File encryption tool (Python)  
-- 🤖 **Ruth ChatBot** – Conversational chatbot  
-- 🧠 **convB** – Python logic-based project  
-- 🎮 **forca** – Hangman game in Python  
-- 🌐 **LooksLike Rede Social** – Social network prototype (PHP)  
+### 🍽️ EkoSaaS – Restaurant Management Platform
+**Software as a Service (SaaS) for Restaurants**  
+A scalable SaaS platform designed to support restaurant operations, including communication, management and digital workflows.
 
-👉 Explore my repositories for more projects.
+**Tech stack:** TypeScript, Backend Services  
+**Concepts:**
+- SaaS architecture
+- Modular backend design
+- Scalable project structure
+- Business-oriented solution
+
+---
+
+### 🌐 Ekoko Portfolio
+**Personal Portfolio Website**  
+A modern and responsive personal portfolio showcasing my projects, skills and experience.
+
+**Tech stack:** TypeScript, Web Technologies  
+🔗 https://ekoko-portfolio.netlify.app/
+
+---
+
+### 📄 h2n_cv_platform
+**CV / Resume Management Platform**  
+A Python-based platform for creating, managing and organizing CVs, focused on simplicity and usability.
+
+**Tech stack:** Python  
+**Features:**
+- Data handling and processing
+- Structured CV generation
+- Clean backend logic
+
+---
+
+### 🔐 cryptFile
+**File Encryption Tool**  
+A security-focused project for encrypting and protecting files.
+
+**Tech stack:** Python  
+**Features:**
+- File encryption
+- Security-oriented logic
+- Command-line usage
+
+---
+
+### 🤖 Ruth ChatBot
+**Conversational Chatbot**  
+A chatbot project exploring conversational flows and automated responses.
+
+**Tech stack:** Python  
+**Features:**
+- Message processing
+- Rule-based conversation
+- Chat logic design
+
 
 ---
 

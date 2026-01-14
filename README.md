@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekoko Clesh</h1>
-<h3 align="center">Computer Engineering Student & Software Developer</h3>
+<h3 align="center">Computer Engineer & Software Developer</h3>
 
 <p align="center">
   <a href="https://ekoko-portfolio.netlify.app/" target="_blank">

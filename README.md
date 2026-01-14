@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student  
+- 🎓 Computer Engineer  
 - 💻 Software Developer passionate about building practical solutions  
 - 🌍 Interested in international and remote opportunities  
 - 🚀 I enjoy turning ideas into real applications  
